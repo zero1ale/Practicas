@@ -1,0 +1,2 @@
+# Practicas
+Mineria de Datos
